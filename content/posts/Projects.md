@@ -4,6 +4,36 @@ date: 2019-07-17T00:20:45+05:30
 draft: true
 ---
 
+
+
+<!-- Include the library. -->
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
+></script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar" style="background-color:white">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    // or enable responsive functionality
+    GitHubCalendar(".calendar", "L04DB4L4NC3R", { responsive: true });
+</script>
+            
+
+<div align = "center" class="github-card" data-user="L04DB4L4NC3R"></div>
+<script src="http://lab.lepture.com/github-cards/widget.js"></script>
+
+<br>
+
 ### Index
 
 * [Zopp](#zopp)
@@ -24,11 +54,6 @@ draft: true
 * [Blep](#blep)
 * [Hope](#hope)
 * [Research aid](#research)
-
-<br>
-
-<div align = "center" class="github-card" data-user="L04DB4L4NC3R"></div>
-<script src="http://lab.lepture.com/github-cards/widget.js"></script>
 
 
 
@@ -149,6 +174,18 @@ draft: true
 
 <br>
 <br>
+
+
+<h2 id="stackoverflow" align="center">Stackoverflow scraper</h2>
+
+<br>
+
+<blockquote class="embedly-card" data-card-theme="dark"><h4><a href="https://github.com/L04DB4L4NC3R/stackoverflow_scraping">L04DB4L4NC3R/stackoverflow_scraping</a></h4><p>A stackoverflow scraping tool using selenium. Contribute to L04DB4L4NC3R/stackoverflow_scraping development by creating an account on GitHub.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<br>
+<br>
+
 
 
 
