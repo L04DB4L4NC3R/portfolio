@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "About Me"
+theme = "m10c"
+
+[params]
+
+	author = "Angad Sharma"
+	description = "Server side developer, solutions architect and DevOps SysAdmin for the win"
+
+	[[params.social]]
+  	name = "github"
+  	url = "https://github.com/L04DB4L4NC3R"
+
+	[[params.social]]
+  	name = "linkedin"
+  	url = "https://www.linkedin.com/in/angad-sharma-07bb38122/"
+
+	[[params.social]]
+  	name = "instagram"
+  	url = "https://www.instagram.com/angad.sharma/"
+
+
